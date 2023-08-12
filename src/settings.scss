@@ -1,0 +1,7 @@
+
+
+@forward 'vuetify/settings' with (
+  $utilities: false,
+  $color-pack: false,
+  $reset: false
+);
